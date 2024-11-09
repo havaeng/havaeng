@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @havaeng
 - 👀 I’m interested in everything! But currently extra interested in Kotlin. 
-- 🌱 I’m currently studying Computer Systems Developer at Malmö university.
+- 🌱 I’m currently working at SJ AB as software engineer.
 - 💞️ I love programming! 
 - 📫 How to reach me: https://www.linkedin.com/in/anthon-haväng-9a836a5a/
 
