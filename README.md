@@ -3,7 +3,7 @@
 💻 Backend-focused Software Engineer with interest in system design, DevOps and team leadership.
 
 ### 🛠️ Languages
-- Kotlin (server-side)
+- Kotlin (server-side, yes - I know. I actually love it!)
 - TypeScript / React
 - Java
 - SQL
