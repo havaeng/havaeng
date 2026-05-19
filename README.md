@@ -3,10 +3,11 @@
 💻 Backend-focused Software Engineer with interest in system design, DevOps and team leadership.
 
 ### 🛠️ Languages
-- Kotlin (server-side, yes - I know. I actually love it!)
+- Kotlin server-side 💜
 - TypeScript / React
 - Java
 - SQL
+- Terraform
 
 ### 🏗️ Tech Stack
 Kubernetes • Docker • GitHub Actions • Gradle • Azure • Terraform  
