@@ -22,7 +22,7 @@ Spring Boot • PostgreSQL • REST APIs
 Software Engineer SJ AB
 
 ### 📫 Connect
-LinkedIn: https://www.linkedin.com/in/anthon-haväng-9a836a5a/ 
+LinkedIn: https://www.linkedin.com/in/havaeng/ 
 <!---
 havaeng/havaeng is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
