@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anthon
 
-💻 Backend-focused Software Engineer with interest in system design, DevOps and team leadership.
+💻 Backend-focused software developer with interest in system design, DevOps and team leadership.
 
 ### 🛠️ Languages
 - Kotlin server-side 💜
