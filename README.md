@@ -19,7 +19,7 @@ Spring Boot • PostgreSQL • REST APIs
 - Technical leadership & team dynamics
 
 ### 👷‍♂️ Experience
-Software Engineer & Scrum Master at SJ AB
+Software Engineer SJ AB
 
 ### 📫 Connect
 LinkedIn: https://www.linkedin.com/in/anthon-haväng-9a836a5a/ 
