@@ -14,7 +14,7 @@ Kubernetes • Docker • GitHub Actions • Gradle • Azure • Terraform
 Spring Boot • PostgreSQL • REST APIs
 
 ### 🌱 Currently Exploring
-- Cloud-native architecture patterns
+- Terraform & cloud infrastructure
 - CI/CD & infrastructure automation
 - Technical leadership & team dynamics
 
